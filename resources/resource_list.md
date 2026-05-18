@@ -55,4 +55,5 @@
 | Khanmigo | [khanmigo.ai](https://www.khanmigo.ai/) | Khan Academy's AI assistant that serves as both a teacher planning tool and a Socratic student tutor tied to Khan Academy's full content library. |
 | Juji | [juji.io/education-chatbot](https://juji.io/education-chatbot/) | No-code platform for building custom AI chatbots for tutoring, student support, and course Q&A. |
 | LiveChat AI for Education | [livechatai.com/ai-chatbot-for-education](https://livechatai.com/ai-chatbot-for-education) | AI chatbot platform for student and teacher support, embeddable in school websites or LMS platforms. |
+| Poe	| [poe.com](https://poe.com) | Can create custom bots |
 
