@@ -1,1 +1,8 @@
 I want to generate a list of instructional AI materials for teachers. This should be a list of any resources that can be used to create lesson plans, slides, grading, other teaching materials.  Search the web to find such resources.  For the output, please create a list of materials that you have found.  This output should be structured in markdown. The materials should be grouped by category like "ai slide generation tools", "ai bots for teaching", "ai lesson plan tools". Within each category, you should output the url where you found the resource and a short one sentence description of the resource. This can be in a markdown table
+
+Claude did ok with the above prompt, but it also included blogs and reviews sites rather than actual product links, so I refined like this:
+
+some of the entries that you created were just blogs or reviews about
+  Ai-based learning tools and weren't the tools themselves. You need to
+  analyze the search results after you search and make sure that they are
+  referring to a tool or product.
