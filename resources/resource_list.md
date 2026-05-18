@@ -56,28 +56,3 @@
 | Juji | [juji.io/education-chatbot](https://juji.io/education-chatbot/) | No-code platform for building custom AI chatbots for tutoring, student support, and course Q&A. |
 | LiveChat AI for Education | [livechatai.com/ai-chatbot-for-education](https://livechatai.com/ai-chatbot-for-education) | AI chatbot platform for student and teacher support, embeddable in school websites or LMS platforms. |
 
----
-
-## Sources
-
-- [Gamma](https://gamma.app/)
-- [SlidesAI](https://www.slidesai.io/)
-- [Slidesgo AI](https://slidesgo.com/ai)
-- [Plus AI](https://www.plusai.com/)
-- [LessonPlans.ai](https://www.lessonplans.ai/)
-- [Canva AI Lesson Plan Generator](https://www.canva.com/features/ai-lesson-plan-generator/)
-- [Kuraplan](https://www.kuraplan.com/)
-- [Flint K12](https://flintk12.com/)
-- [Eduaide](https://www.eduaide.ai/)
-- [Diffit](https://web.diffit.me/)
-- [Khanmigo](https://www.khanmigo.ai/)
-- [Gradescope](https://www.gradescope.com/)
-- [Turnitin](https://www.turnitin.com/)
-- [Formative](https://www.formative.com/)
-- [ClassPoint AI](https://www.classpoint.io/ai-quiz-generator)
-- [Twee](https://twee.com/)
-- [Flint K12 Worksheet Generator](https://flintk12.com/tools/ai-worksheet-generator)
-- [MagicSchool AI](https://www.magicschool.ai/)
-- [Brisk Teaching](https://www.briskteaching.com/)
-- [Juji Education Chatbot](https://juji.io/education-chatbot/)
-- [LiveChat AI for Education](https://livechatai.com/ai-chatbot-for-education)
