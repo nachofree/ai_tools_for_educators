@@ -1,0 +1,1 @@
+In this directory you will find an instructions.txt file. This is a prompt that I fed to claude to have it go and search for and create the resource_list.md file. I ran it like `claude instructions.txt`
