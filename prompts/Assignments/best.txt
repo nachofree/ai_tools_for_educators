@@ -1,0 +1,12 @@
+Create a take-home assignment for a 10th grade Biology class on photosynthesis, specifically focused on comparing the light-dependent reactions (occurring in the thylakoid membrane) and the light-independent reactions / Calvin cycle (occurring in the stroma). This assignment aligns with NGSS HS-LS1-5.
+
+The assignment should:
+- Target Bloom's Taxonomy levels of "analyze" and "evaluate"
+- Consist of two parts:
+  Part A: An annotated diagram — students draw and label a chloroplast cross-section, then add numbered annotations (minimum 6) explaining what is happening at each labeled location. Annotations should be written in complete sentences.
+  Part B: A written comparison (150–200 words) explaining how the two stages of photosynthesis depend on each other, using the terms ATP, NADPH, G3P, and carbon fixation correctly
+- Include a 4-criterion rubric with scores 1–4 for: scientific accuracy, completeness of the diagram, quality of written explanation, and correct use of vocabulary
+- Include a scaffolded sentence-starter bank (5 phrases) for students who need additional writing support
+- Specify that the assignment is due in 3 days and should be submitted as a hand-drawn or digitally created diagram with the written response on the same page or as a two-page PDF
+
+Format the output as a student-facing assignment sheet followed by the teacher rubric.

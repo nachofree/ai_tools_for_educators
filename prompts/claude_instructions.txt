@@ -1,0 +1,24 @@
+In this directory you need to create examples of prompts that educators can use to generate course content.  
+
+The following directories should be created:
+
+- Lesson Plans
+- Assignments
+- Quizzes
+- Slides
+
+In each directory, you should create the following files:
+
+- poor.txt
+- ok.txt
+- best.txt
+
+In poor.txt, you should give an example of a poor AI prompt to generate a resource.
+In ok.txt, you should give an example of an ok AI prompt to generate a resource.
+In best.txt, you should give a best example of an AI prompt to generate a resource.
+
+The 'resource' defined should come from the working directory name like: "lesson plans", assignments, quizzes, slides.
+
+The content domain for each resource should be similar. I.e. newton's third law of physics.
+
+Before you begin, ask me any questions that you might need to.

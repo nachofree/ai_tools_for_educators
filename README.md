@@ -6,12 +6,26 @@ A growing collection of AI-based tools and resources aimed at helping educators 
 
 ```
 ai_as_you_ta/
+├── prompts/            # Example AI prompts for generating course content, rated by quality
+│   ├── Assignments/    # poor.txt, ok.txt, best.txt — prompts to generate assignments
+│   ├── Lesson Plans/   # poor.txt, ok.txt, best.txt — prompts to generate lesson plans
+│   ├── Quizzes/        # poor.txt, ok.txt, best.txt — prompts to generate quizzes
+│   └── Slides/         # poor.txt, ok.txt, best.txt — prompts to generate slide decks
 └── resources/          # Curated AI tool lists and the prompts used to generate them
     ├── instructions.txt    # Claude Code prompt used to research and build the resource list
     └── resource_list.md    # Categorized list of AI teaching tools with URLs and descriptions
 ```
 
 ## What's Here
+
+### `prompts/`
+A library of example AI prompts that educators can use (or adapt) to generate common course materials. Each content category — Assignments, Lesson Plans, Quizzes, and Slides — contains three prompt files that illustrate a quality spectrum:
+
+- **`poor.txt`** — a vague, under-specified prompt that typically yields generic or unusable output
+- **`ok.txt`** — a prompt with some context that produces adequate but improvable results
+- **`best.txt`** — a detailed, well-structured prompt with grade level, learning objectives, standards alignment, format requirements, and a rubric or scaffolding request, producing output that is classroom-ready with minimal editing
+
+All example prompts are anchored to a shared content domain (Biology / photosynthesis) so the quality differences are easy to compare across files.
 
 ### `resources/resource_list.md`
 A curated, categorized markdown table of AI tools useful for K-12 and higher-ed teachers. Categories include:

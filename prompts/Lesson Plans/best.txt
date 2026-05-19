@@ -1,0 +1,14 @@
+Create a detailed lesson plan for a 10th grade Biology class (approximately 28 students, mixed ability) on photosynthesis. The lesson should be 50 minutes long and align with NGSS standard HS-LS1-5 (use a mathematical representation to support a claim for the cycling of matter and flow of energy into and out of organisms).
+
+Include the following sections:
+1. Learning Objectives (3 measurable objectives using Bloom's Taxonomy action verbs at the "understand" and "apply" levels)
+2. Hook/Anticipatory Set (5 minutes): an engaging opening question or short video prompt that activates prior knowledge about plant energy
+3. Direct Instruction (15 minutes): key content covering chloroplasts, the overall equation (6CO2 + 6H2O + light → C6H12O6 + 6O2), and an overview of the light-dependent and light-independent (Calvin cycle) reactions
+4. Guided Practice / Lab Activity (20 minutes): a simple leaf disk floating assay or chromatography activity that students can complete in pairs to observe photosynthesis in action; include step-by-step instructions and a data table template
+5. Formative Check (5 minutes): an exit ticket with 2 questions — one recall and one application
+6. Closure (5 minutes): class discussion summarizing what students observed and how it connects to the objectives
+7. Differentiation: one accommodation for students who need additional support and one extension for advanced learners
+8. Materials list
+9. Answer key for the exit ticket
+
+Format the output as a structured document with clear headers for each section.

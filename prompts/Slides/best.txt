@@ -1,0 +1,21 @@
+Create a 12-slide presentation outline on photosynthesis for a 10th grade Biology class. The presentation will be built in Google Slides and used for direct instruction during a 50-minute class period.
+
+Include the following slide-by-slide structure:
+1. Title slide — topic, course name, and date placeholder
+2. Learning Objectives — list 3 measurable objectives (students will be able to…)
+3. Hook / Engagement — a thought-provoking question or surprising fact about how much energy plants capture from the sun; suggest one image or short video clip to embed
+4. What is Photosynthesis? — overall definition and the chemical equation (6CO2 + 6H2O + light → C6H12O6 + 6O2); suggest a visual of a plant with labeled inputs and outputs
+5. Where Does It Happen? — chloroplast structure; suggest a labeled diagram of a chloroplast cross-section (thylakoid, granum, stroma); include alt-text description for the diagram
+6. The Light-Dependent Reactions — location (thylakoid membrane), inputs (water, light), outputs (ATP, NADPH, O2); suggest a simplified flow diagram
+7. The Calvin Cycle (Light-Independent Reactions) — location (stroma), inputs (CO2, ATP, NADPH), output (G3P → glucose); suggest a cycle arrow diagram
+8. Connecting the Two Stages — a side-by-side comparison table showing how outputs of stage 1 become inputs of stage 2
+9. Key Vocabulary Review — define: chlorophyll, chloroplast, thylakoid, stroma, ATP, NADPH, G3P, carbon fixation (one term per bullet)
+10. Common Misconception — address the idea that plants "eat" soil; explain that glucose is made from CO2 in the air
+11. Check for Understanding — 2–3 quick discussion or clicker questions for the class
+12. Exit Ticket — 2 questions (one recall, one application) that students answer on a notecard before leaving
+
+For each slide, include:
+- Suggested slide title
+- Bullet-point content (no full sentences on slides — speaker notes should contain the full explanation)
+- Speaker notes (2–4 sentences the teacher would say aloud)
+- A suggested visual or diagram type with a brief alt-text description for accessibility

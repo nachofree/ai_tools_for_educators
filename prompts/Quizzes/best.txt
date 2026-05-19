@@ -1,0 +1,8 @@
+Create a 20-point quiz on photosynthesis for a 10th grade Biology class. The quiz should assess the following content: (1) chloroplast structure and function, (2) the light-dependent reactions (inputs, outputs, location), and (3) the Calvin cycle / light-independent reactions (inputs, outputs, location). Also include one question specifically probing the common misconception that plants get their food from the soil rather than from photosynthesis.
+
+Format the quiz with three sections:
+- Section 1 — Multiple Choice (8 questions, 1 point each): Questions should target "remember" and "understand" levels of Bloom's Taxonomy. Four answer choices per question.
+- Section 2 — Short Answer (2 questions, 3 points each): Questions should target "apply" or "analyze" level. Each question should have a clear expectation of answer length (2–3 sentences).
+- Section 3 — Diagram Labeling (1 diagram, 6 points): Provide a blank chloroplast diagram with 6 numbered arrows; students write the correct label for each arrow. Include labels such as thylakoid membrane, stroma, granum, and the locations of each photosynthesis stage.
+
+After the quiz, provide a complete answer key with brief explanations for why each multiple choice distractor is incorrect. Note the point value next to each question on the student-facing version.
