@@ -57,3 +57,16 @@
 | LiveChat AI for Education | [livechatai.com/ai-chatbot-for-education](https://livechatai.com/ai-chatbot-for-education) | AI chatbot platform for student and teacher support, embeddable in school websites or LMS platforms. |
 | Poe	| [poe.com](https://poe.com) | Can create custom bots |
 
+
+## AI Video Generation
+
+| Tool | URL | Description |
+|------|-----|-------------|
+| Synthesia | [synthesia.com](https://synthesia.com/) | Could be used to generate instructional videos. |
+| HeyGen | [app.heygen.com](https://app.heygen.com/) | Also could be used to generate instructional videos. |
+
+## Misc
+| Tool | URL | Description |
+|------|-----|-------------|
+| Suno | [suno.com](https://suno.com/) | I have used this to generate fun songs about content we are learning in class. |
+
